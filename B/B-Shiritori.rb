@@ -1,3 +1,5 @@
+# https://atcoder.jp/contests/abc109/tasks/abc109_b
+
 n = gets.to_i
 w = readlines.map(&:chomp)
  
